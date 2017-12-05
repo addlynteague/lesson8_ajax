@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 4, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Addlyn Teague)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this lesson I used JSON, JQuery, and AJAX to help add columns to a movie database and connect them through id's and class's so they would show properly.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://addlynteague.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (AJAX allows client web pages to quickly interact and exchange data with a web server.)
+2. (A proxy is a server that acts for or performs requests for other clients and servers.)
+3. (A webservice will often require an API Key, which is a unique identifier assigned by service to each person/organization that wants access.)
